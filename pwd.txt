@@ -3,3 +3,8 @@ Commit in pwd
 third commit
 fouth
 pwd changes
+
+
+----------------First commit in feature branch----------------
+
+----------------second commit in feature branch----------------
