@@ -9,3 +9,7 @@ pwd changes
 
 ----------------second commit in feature branch----------------
  third commit
+
+m1
+m2
+m3
